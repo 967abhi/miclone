@@ -1,0 +1,7 @@
+.footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 2fr;
+    padding: 4.5vmax;
+    background-color: rgb(37,37,37);
+    color: rgb(197,197,197);
+}
